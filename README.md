@@ -1,0 +1,3 @@
+# kitty
+hyprland環境でのターミナルの設定
+fontをnerd関連にしないとneovimのファイルアイコンがうまく表示されない
